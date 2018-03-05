@@ -4,4 +4,4 @@ GrizzlyCloud is a simplified VPN alternative for IoT (Internet of Things). Essen
 
 # Disclaimer
 
-This library, although fully working, is not meant for a production environment. If you decide to improve it, please submit a pull request also.
+This library is abandonware and it's only present becase of somebody who's interested in QT implementation. You should use [C version](https://github.com/GrizzlyCloud/grizzlycloudlib) instead.
